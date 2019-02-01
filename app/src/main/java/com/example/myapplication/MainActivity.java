@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
     //初始化fragment和fragment数组
     private void initFragment()
     {
-
         fragment1 = new Fragment1();
         fragment2 = new Fragment2();
         fragment3 = new Fragment3();
